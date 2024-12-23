@@ -38,7 +38,7 @@ Before running the project, ensure the following are installed:
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/BitlaSaiteja/Hospital-Management-System-with-Chatbot.git
 ```
 ### Step 2: Navigate to the Project Directory
 cd your-repository-name
