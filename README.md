@@ -47,7 +47,7 @@ cd your-repository-name
 ---
 ### Step 4: Run the runServer.bat File
 ---
-### Step 5: Open your browser and visit the following URL: http://127.0.0.1:8000/index
+### Step 5: Open your browser and visit the following URL: http://127.0.0.1:8000/index.html
 ---
 
 
